@@ -113,10 +113,11 @@ packages:
   flutter_apns_only:
     dependency: "direct main"
     description:
-      name: flutter_apns_only
-      sha256: "70da0d520a5b8088dc7a52abb9a63d3191521c7ec2360461af776cdaee50ab74"
-      url: "https://pub.dev"
-    source: hosted
+      path: flutter_apns_only
+      ref: HEAD
+      resolved-ref: "93f861249e2336e481998426172b9489e05a79a5"
+      url: "https://github.com/pfraunlob/flutter-apns"
+    source: git
     version: "1.6.0"
   flutter_test:
     dependency: "direct dev"
